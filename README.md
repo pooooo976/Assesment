@@ -4,6 +4,7 @@ https://github.com/pooooo976/Assesment.git
 ## Overview
 
 This application is a cross-platform desktop system monitoring tool built using C#. It tracks CPU usage, memory usage, and disk space in real-time. It includes plugin support for integrations such as logging to a file and exposing a REST API for external access.
+It can also be used to send alerts via email or Telegram if the usage exceeds the upper limit set by the us.(Will add this later)
 
 ## Configuration
 
