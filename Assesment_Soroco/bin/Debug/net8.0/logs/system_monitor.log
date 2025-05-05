@@ -1,0 +1,50 @@
+2025-05-06 00:20:52,096 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:20:52,102 [1] INFO  Assesment_Soroco.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:20:52,103 [1] INFO  Assesment_Soroco.PluginManager - Loaded 2 plugins.
+2025-05-06 00:20:52,116 [1] INFO  Assesment_Soroco.LoggerPlugin - FileLoggerPlugin initialized. Writing to system_metrics.log
+2025-05-06 00:20:52,116 [1] INFO  Assesment_Soroco.PluginManager - Initialized plugin: File Logger Plugin
+2025-05-06 00:20:52,491 [1] INFO  Assesment_Soroco.ApiIntegrationPlugin - ApiIntegrationPlugin initialized. Endpoint: https://api.example.com/metrics
+2025-05-06 00:20:52,491 [1] INFO  Assesment_Soroco.PluginManager - Initialized plugin: API Integration Plugin
+2025-05-06 00:25:03,199 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:25:12,091 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:26:01,923 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:26:05,320 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:26:05,321 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Loaded 2 plugins.
+2025-05-06 00:27:11,803 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:27:14,424 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:27:14,424 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Loaded 2 plugins.
+2025-05-06 00:27:21,310 [1] INFO  Assesment_Soroco.Plugin.LoggerPlugin - FileLoggerPlugin initialized. Writing to system_metrics.log
+2025-05-06 00:27:22,237 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: File Logger Plugin
+2025-05-06 00:27:50,569 [1] INFO  Assesment_Soroco.Plugin.ApiIntegrationPlugin - ApiIntegrationPlugin initialized. Endpoint: https://api.example.com/metrics
+2025-05-06 00:28:03,645 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: API Integration Plugin
+2025-05-06 00:32:12,944 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:32:15,892 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:32:15,892 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Loaded 2 plugins.
+2025-05-06 00:32:16,682 [1] INFO  Assesment_Soroco.Plugin.LoggerPlugin - FileLoggerPlugin initialized. Writing to system_metrics.log
+2025-05-06 00:32:16,682 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: File Logger Plugin
+2025-05-06 00:32:16,770 [1] INFO  Assesment_Soroco.Plugin.ApiIntegrationPlugin - ApiIntegrationPlugin initialized. Endpoint: https://systemMonitorcheck.com/metrics
+2025-05-06 00:32:16,770 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: API Integration Plugin
+2025-05-06 00:32:24,281 [5] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:32:58,509 [13] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:02,508 [13] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:06,492 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:10,659 [5] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:14,591 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:18,581 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:22,754 [13] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:26,749 [13] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:30,813 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:34,704 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:38,793 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:42,859 [9] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:33:46,969 [13] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:34:42,730 [1] INFO  SystemMonitor.Program - Starting System Monitor application
+2025-05-06 00:34:44,030 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Plugins directory doesn't exist: D:\8th Sem\Assesment_Soroco\Assesment_Soroco\bin\Debug\net8.0\Plugins
+2025-05-06 00:34:44,031 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Loaded 2 plugins.
+2025-05-06 00:34:44,807 [1] INFO  Assesment_Soroco.Plugin.LoggerPlugin - FileLoggerPlugin initialized. Writing to system_metrics.log
+2025-05-06 00:34:44,807 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: File Logger Plugin
+2025-05-06 00:34:44,880 [1] INFO  Assesment_Soroco.Plugin.ApiIntegrationPlugin - ApiIntegrationPlugin initialized. Endpoint: https://systemMonitorcheck.com/metrics
+2025-05-06 00:34:44,881 [1] INFO  Assesment_Soroco.Plugin.PluginManager - Initialized plugin: API Integration Plugin
+2025-05-06 00:34:51,970 [7] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:34:55,691 [10] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
+2025-05-06 00:34:59,726 [10] WARN  Assesment_Soroco.Plugin.ApiIntegrationPlugin - Failed to send metrics to API. Status: 0, Error: No such host is known. (systemmonitorcheck.com:443)
