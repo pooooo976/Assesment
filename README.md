@@ -6,7 +6,10 @@ https://github.com/pooooo976/Assesment.git
 This application is a cross-platform desktop system monitoring tool built using C#. It tracks CPU usage, memory usage, and disk space in real-time. It includes plugin support for integrations such as logging to a file and exposing a REST API for external access.
 It can also be used to send alerts via email or Telegram if the usage exceeds the upper limit set by the us.(Will add this later)
 
-The binary of the solution is available here, and you can directly run the application using this executable.
+### 🔗 Executable
+
+The binary of the solution is available [here](https://github.com/pooooo976/Assesment/blob/main/Assesment_Soroco/bin/Debug/net8.0), and you can directly run the application using this [executable](https://github.com/pooooo976/Assesment/blob/main/Assesment_Soroco/bin/Debug/net8.0/Assesment_Soroco.exe).
+
 
 
 ## Configuration
